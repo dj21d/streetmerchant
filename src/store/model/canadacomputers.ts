@@ -20,6 +20,42 @@ export const CanadaComputers: Store = {
       url: 'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268261&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268262&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268435&language=en',
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268261&language=en',
+    },
+    {
+      brand: 'zotac',
+      model: 'solid oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268284&language=en',
+    },
+    {
+      brand: 'zotac',
+      model: 'solid',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268283&language=en',
+    },
+    {
       brand: 'gigabyte',
       model: 'gaming oc',
       series: '3070',
