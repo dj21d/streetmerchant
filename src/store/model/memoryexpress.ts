@@ -29,6 +29,30 @@ export const MemoryExpress: Store = {
     },
     {
       brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/Products/MX00132651',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/Products/MX00132352',
+    },
+    {
+        brand: 'asus',
+        model: 'tuf oc',
+        series: '5090',
+        url: 'https://www.memoryexpress.com/Products/MX00132352',
+      },
+    {
+      brand: 'msi',
+      model: 'suprim soc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/Products/MX00132637',
+    },
+    {
+      brand: 'msi',
       model: 'ventus 2x',
       series: '3060',
       url: 'https://www.memoryexpress.com/Products/MX00116071',
