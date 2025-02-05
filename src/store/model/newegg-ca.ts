@@ -36,62 +36,6 @@ export const NeweggCa: Store = {
     },
     {
       brand: 'gigabyte',
-      itemNumber: '14-932-761',
-      model: 'gaming oc',
-      series: '5090',
-      url: 'https://www.newegg.ca/gigabyte-gv-n5090gaming-oc-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814932761',
-    },
-    {
-      brand: 'gigabyte',
-      itemNumber: '14-932-762',
-      model: 'windforce oc',
-      series: '5090',
-      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814932762',
-    },
-    {
-      brand: 'asus',
-      itemNumber: '14-126-752',
-      model: 'tuf',
-      series: '5090',
-      url: 'https://www.newegg.ca/p/N82E16814126752',
-    },
-    {
-      brand: 'asus',
-      itemNumber: '14-126-697',
-      model: 'tuf',
-      series: '4070ti',
-      url: 'https://www.newegg.ca/asus-geforce-rtx-4070-tuf-rtx4070s-o12g-gaming/p/N82E16814126697',
-    },
-    {
-      brand: 'asus',
-      itemNumber: '14-126-753',
-      model: 'tuf oc',
-      series: '5090',
-      url: 'https://www.newegg.ca/p/N82E16814126753',
-    },
-    {
-      brand: 'msi',
-      itemNumber: '14-137-920',
-      model: 'ventus 3x oc',
-      series: '5090',
-      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137920',
-    },
-    {
-      brand: 'msi',
-      itemNumber: '14-137-946',
-      model: 'ventus 3x',
-      series: '5090',
-      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137946',
-    },
-    {
-      brand: 'zotac',
-      itemNumber: '14-500-593',
-      model: 'amp extreme infinity',
-      series: '5090',
-      url: 'https://www.newegg.ca/zotac-amp-extreme-infinity-zt-b50900b-10p-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814500593',
-    },
-    {
-      brand: 'gigabyte',
       itemNumber: '14-932-399',
       model: 'eagle',
       series: '3060',
@@ -1061,6 +1005,152 @@ export const NeweggCa: Store = {
       series: '3080ti',
       url: 'https://www.newegg.ca/asus-geforce-rtx-3080-ti-tuf-rtx3080ti-12g-gaming/p/N82E16814126510',
     },
+    {	brand: 'asus',
+      itemNumber: '14-126-751',
+      model: 'astral oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/asus-rog-astral-rog-astral-rtx5090-o32g-gaming-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814126751'
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-752',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.newegg.ca/p/n82e16814126752'
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-753',
+      model: 'tuf oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/p/n82e16814126753'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-915',
+      model: 'suprim soc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-suprim-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137915'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-916',
+      model: 'suprim liquid soc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-suprim-liquid-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137916'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-760',
+      model: 'master',
+      series: '5090',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5090aorus-m-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932760'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-946',
+      model: 'ventus 3x',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137946'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-762',
+      model: 'windforce',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932762'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-765',
+      model: 'master ice',
+      series: '5090',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5090aorusm-ice-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932765'
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-597',
+      model: 'solid',
+      series: '5090',
+      url: 'https://www.newegg.ca/zotac-solid-zt-b50900d-10p-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814500597'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-764',
+      model: 'aorus xtreme waterforce wb',
+      series: '5090',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5090aorusx-wb-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932764'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-918',
+      model: 'vanguard soc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-vanguard-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137918'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-919',
+      model: 'gaming trio oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-gaming-trio-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137919'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-761',
+      model: 'gaming oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5090gaming-oc-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932761'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-763',
+      model: 'aorus xtreme waterforce',
+      series: '5090',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5090aorusx-w-32gd-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814932763'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-920',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137920'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-917',
+      model: 'vanguard soc launch edition',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-vanguard-soc-launch-edition-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814137917'
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-593',
+      model: 'amp extreme infinity',
+      series: '5090',
+      url: 'https://www.newegg.ca/zotac-amp-extreme-infinity-zt-b50900b-10p-nvidia-geforce-rtx-5090-32gb-gddr7/p/n82e16814500593'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-920',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137920',
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-946',
+      model: 'ventus 3x',
+      series: '5090',
+      url: 'https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137946',
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-593',
+      model: 'amp extreme infinity',
+      series: '5090',
+      url: 'https://www.newegg.ca/zotac-amp-extreme-infinity-zt-b50900b-10p-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814500593',
+    }
   ],
   name: 'newegg-ca',
   country: 'CA',

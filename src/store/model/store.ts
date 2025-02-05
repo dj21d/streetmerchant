@@ -136,6 +136,8 @@ export type Model =
   | 'aorus'
   | 'astral oc'
   | 'astral'
+  | 'astral lc oc'
+  | 'astral lc'
   | 'b580'
   | 'battle-ax'
   | 'challenger oc'

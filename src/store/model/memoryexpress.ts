@@ -29,30 +29,6 @@ export const MemoryExpress: Store = {
     },
     {
       brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '5090',
-      url: 'https://www.memoryexpress.com/Products/MX00132651',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '5090',
-      url: 'https://www.memoryexpress.com/Products/MX00132352',
-    },
-    {
-        brand: 'asus',
-        model: 'tuf oc',
-        series: '5090',
-        url: 'https://www.memoryexpress.com/Products/MX00132352',
-      },
-    {
-      brand: 'msi',
-      model: 'suprim soc',
-      series: '5090',
-      url: 'https://www.memoryexpress.com/Products/MX00132637',
-    },
-    {
-      brand: 'msi',
       model: 'ventus 2x',
       series: '3060',
       url: 'https://www.memoryexpress.com/Products/MX00116071',
@@ -525,6 +501,85 @@ export const MemoryExpress: Store = {
       model: 'merc',
       series: 'rx6900xt',
       url: 'https://www.memoryexpress.com/Products/MX00115051',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'master ice',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132767'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132476'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132565'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce wb',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132566'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim soc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132637'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132639'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc launch edition',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132638'
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132651'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'windforce oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132478'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132477'
+    },
+    {
+      brand: 'asus',
+      model: 'astral oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132349'
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132352'
+    },
+    {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '5090',
+      url: 'https://www.memoryexpress.com/products/mx00132351'
     },
   ],
   name: 'memoryexpress',

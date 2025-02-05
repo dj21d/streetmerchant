@@ -20,42 +20,6 @@ export const CanadaComputers: Store = {
       url: 'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268261&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268262&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268435&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268261&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'solid oc',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268284&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'solid',
-      series: '5090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=268283&language=en',
-    },
-    {
       brand: 'gigabyte',
       model: 'gaming oc',
       series: '3070',
@@ -540,6 +504,114 @@ export const CanadaComputers: Store = {
       model: 'xbox series x',
       series: 'xboxsx',
       url: 'https://www.canadacomputers.com/product_info.php?cPath=13_1860_1862&item_id=184244&language=en',
+    },
+    {	
+      brand: 'msi',
+      model: 'gaming trio oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268437/msi-geforce-rtx-5090-32g-gaming-trio-oc-rtx-5090-32g-gaming-trio-oc.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce wb',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268186/gigabyte-aorus-geforce-rtx-5090-xtreme-waterforce-water-block-cooling-gv-n5090aorusx-wb-32gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master ice',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268187/gigabyte-aorus-geforce-rtx-5090-master-ice-32g-gv-n5090aorusm-ice-32gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268188/gigabyte-aorus-geforce-rtx-5090-master-ai-gaming-graphics-card-gv-n5090aorus-m-32gd.html'
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268435/msi-geforce-rtx-5090-32g-ventus-3x-oc-rtx-5090-32g-ventus-3x-oc.html'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc launch edition',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268439/msi-geforce-rtx-5090-32g-vanguard-soc-launch-edition-rtx-5090-32g-vanguard-soc-launch-editio.html'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268438/msi-geforce-rtx-5090-32g-vanguard-soc-rtx-5090-32g-vanguard-soc.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268184/gigabyte-aorus-geforce-rtx-5090-xtreme-waterforce-aio-cooling-gv-n5090aorusx-w-32gd.html'
+    },
+    {
+      brand: 'zotac',
+      model: 'solid',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268283/zotac-gaming-geforce-rtx-5090-solid-32gb-gddr7-zt-b50900d-10p.html'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim soc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268440/msi-geforce-rtx-5090-32g-suprim-soc-rtx-5090-32g-suprim-soc.html'
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268262/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7-tuf-rtx5090-32g-gaming.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268190/gigabyte-geforce-rtx-5090-gaming-oc-32g-gddr7-graphics-card-gv-n5090gaming-oc-32gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'windforce oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268191/gigabyte-geforce-rtx-5090-windforce-oc-32g-gddr7-graphics-card-gv-n5090wf3oc-32gd.html'
+    },
+    {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268261/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7-oc-edition-tuf-rtx5090-o32g-gaming.html'
+    },
+    {
+      brand: 'zotac',
+      model: 'solid oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268284/zotac-gaming-geforce-rtx-5090-solid-32gb-gddr7-zt-b50900j-10p.html'
+    },
+    {
+      brand: 'asus',
+      model: 'astral lc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268260/asus-rog-astral-lc-geforce-rtx-5090-32gb-gddr7-aio-cooler-rog-astral-lc-rtx5090-o32g-gaming.html'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim liquid soc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268441/msi-geforce-rtx-5090-32g-suprim-liquid-soc-rtx-5090-32g-suprim-liquid-soc.html'
+    },
+    {
+      brand: 'asus',
+      model: 'astral oc',
+      series: '5090',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268256/asus-rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edition-quad-fan-rog-astral-rtx5090-o32g-gaming.html'
     },
   ],
   name: 'canadacomputers',
