@@ -505,6 +505,120 @@ export const CanadaComputers: Store = {
       series: 'xboxsx',
       url: 'https://www.canadacomputers.com/product_info.php?cPath=13_1860_1862&item_id=184244&language=en',
     },
+    {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267146/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition-tuf-rtx5080-o16g-gaming.html'
+    },
+    {
+      brand: 'zotac',
+      model: 'solid oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268153/zotac-gaming-geforce-rtx-5080-solid-oc-16gb-gddr7-zt-b50800j-10p.html'
+    },
+    {
+      brand: 'zotac',
+      model: 'solid',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268152/zotac-gaming-geforce-rtx-5080-solid-16gb-gddr7-zt-b50800d-10p.html'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim soc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267620/msi-geforce-rtx-5080-16g-suprim-soc-gddr7-16gb-rtx-5080-16g-suprim-soc.html'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc launch edition',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267621/msi-geforce-rtx-5080-16g-vanguard-soc-launch-edition-rtx-5080-16g-vanguard-soc-launch-editio.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268136/gigabyte-aorus-geforce-rtx-5080-xtreme-waterforce-aio-cooling-gv-n5080aorusx-w-16gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268138/gigabyte-geforce-rtx-5080-gaming-oc-ai-gaming-graphics-card-gv-n5080gaming-oc-16gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce wb',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268140/gigabyte-aorus-geforce-rtx-5080-xtreme-waterforce-wb-water-block-cooli-gv-n5080aorusx-wb-16gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'windforce oc sff',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268141/gigabyte-geforce-rtx-5080-windforce-oc-sff-16g-graphics-card-geforce-rtx-5080-windforce-oc-sff-16g.html'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim liquid soc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267619/msi-geforce-rtx-5080-16g-suprim-liquid-soc-gddr7-16gb-rtx-5080-16g-suprim-liquid-soc.html'
+    },
+    {
+      brand: 'msi',
+      model: 'gaming trio oc white',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268146/msi-geforce-rtx-5080-16g-gaming-trio-oc-white-rtx-5080-16g-gaming-trio-oc-white.html'
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc plus',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268148/msi-geforce-rtx-5080-16g-ventus-3x-oc-plus-rtx-5080-16g-ventus-3x-oc-plus.html'
+    },
+    {
+      brand: 'asus',
+      model: 'astral oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267145/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-quad-fan-force-rog-astral-rtx5080-o16g-gaming.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aero oc sff',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268139/gigabyte-geforce-rtx-5080-aero-oc-sff-16g-graphics-card-gv-n5080aero-oc-16gd.html'
+    },
+    {
+      brand: 'asus',
+      model: 'prime',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268151/asus-prime-geforce-rtx-5080-16gb-gddr7-prime-rtx5080-16g.html'
+    },
+    {
+      brand: 'msi',
+      model: 'gaming trio oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268147/msi-geforce-rtx-5080-16g-gaming-trio-oc-rtx-5080-16g-gaming-trio-oc.html'
+    },
+    {
+      brand: 'asus',
+      model: 'prime oc',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/267147/asus-prime-geforce-rtx-5080-16gb-gddr7-oc-edition-sff-prime-rtx5080-o16g.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master ice',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268143/gigabyte-aorus-geforce-rtx-5080-master-ice-16gb-gv-n5080aorusm-ice-16gd.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master',
+      series: '5080',
+      url: 'https://www.canadacomputers.com/en/powered-by-nvidia/268144/gigabyte-aorus-geforce-rtx-5080-master-16g-gddr7-gv-n5080aorus-m-16gd.html'
+    },
     {	
       brand: 'msi',
       model: 'gaming trio oc',

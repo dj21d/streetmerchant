@@ -11,7 +11,7 @@ export const MemoryExpress: Store = {
     outOfStock: {
       container:
         '.c-capr-inventory-selector__details-online .c-capr-inventory-store__availability',
-      text: ['Out of Stock', 'Backorder'],
+      text: ['Out of Stock', 'Backorder', 'Coming Soon'],
     },
   },
   links: [
@@ -502,7 +502,114 @@ export const MemoryExpress: Store = {
       series: 'rx6900xt',
       url: 'https://www.memoryexpress.com/Products/MX00115051',
     },
-
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc plus',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132525'
+    },
+    {
+      brand: 'msi',
+      model: 'gaming trio oc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132524'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132353'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aero oc sff',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132473'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim soc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132521'
+    },
+    {
+      brand: 'asus',
+      model: 'prime oc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132258'
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132257'
+    },
+    {
+      brand: 'msi',
+      model: 'suprim liquid soc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132520'
+    },
+    {
+      brand: 'msi',
+      model: 'vanguard soc launch edition',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132522'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master ice',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132481'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'master',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132472'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132479'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus xtreme waterforce wb',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132480'
+    },
+    {
+      brand: 'msi',
+      model: 'gaming trio oc white',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132523'
+    },
+    {
+      brand: 'msi',
+      model: 'inspire 3x oc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132606'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'windforce oc sff',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132482'
+    },
+    {
+      brand: 'asus',
+      model: 'prime',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132529'
+    },
+    {
+      brand: 'asus',
+      model: 'astral oc',
+      series: '5080',
+      url: 'https://www.memoryexpress.com/products/mx00132361'
+    },
     {
       brand: 'gigabyte',
       model: 'master ice',

@@ -1005,6 +1005,112 @@ export const NeweggCa: Store = {
       series: '3080ti',
       url: 'https://www.newegg.ca/asus-geforce-rtx-3080-ti-tuf-rtx3080ti-12g-gaming/p/N82E16814126510',
     },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-913',
+      model: 'ventus 3x oc plus',
+      series: '5080',
+      url: 'https://www.newegg.ca/msi-rtx-5080-16g-ventus-3x-oc-plus-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137913'
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-743',
+      model: 'tuf oc',
+      series: '5080',
+      url: 'https://www.newegg.ca/asus-tuf-gaming-tuf-rtx5080-o16g-gaming-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126743'
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-594',
+      model: 'solid oc',
+      series: '5080',
+      url: 'https://www.newegg.ca/zotac-solid-oc-zt-b50800j-10p-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814500594'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-755',
+      model: 'master',
+      series: '5080',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5080aorus-m-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932755'
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-744',
+      model: 'prime oc',
+      series: '5080',
+      url: 'https://www.newegg.ca/asus-prime-rtx5080-o16g-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126744'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-757',
+      model: 'master ice',
+      series: '5080',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5080aorusm-ice-16g-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932757'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-909',
+      model: 'gaming trio oc white',
+      series: '5080',
+      url: 'https://www.newegg.ca/msi-rtx-5080-16g-gaming-trio-oc-white-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137909'
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-596',
+      model: 'solid',
+      series: '5080',
+      url: 'https://www.newegg.ca/zotac-solid-zt-b50800d-10p-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814500596'
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-595',
+      model: 'amp extreme infinity',
+      series: '5080',
+      url: 'https://www.newegg.ca/zotac-amp-extreme-infinity-zt-b50800b-10p-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814500595'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-758',
+      model: 'aorus xtreme waterforce wb',
+      series: '5080',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5080aorusx-wb-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932758'
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-759',
+      model: 'aorus xtreme waterforce',
+      series: '5080',
+      url: 'https://www.newegg.ca/gigabyte-gv-n5080aorusx-w-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932759'
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-945',
+      model: 'ventus 3x',
+      series: '5080',
+      url: 'https://www.newegg.ca/msi-rtx-5080-16g-ventus-3x-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137945'
+    },
+    {
+      brand: 'pny',
+      itemNumber: '14-133-899',
+      model: 'pny oc',
+      series: '5080',
+      url: 'https://www.newegg.ca/pny-oc-vcg508016tfxpb1-o-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814133899'
+    },
+    {
+      brand: 'pny',
+      itemNumber: '14-133-898',
+      model: 'pny argb oc',
+      series: '5080',
+      url: 'https://www.newegg.ca/pny-argb-oc-vcg508016tfxxpb1-o-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814133898'
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-776',
+      model: 'prime',
+      series: '5080',
+      url: 'https://www.newegg.ca/asus-prime-rtx5080-16g-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126776'
+    },
+    
     {	brand: 'asus',
       itemNumber: '14-126-751',
       model: 'astral oc',
